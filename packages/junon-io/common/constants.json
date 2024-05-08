@@ -48,6 +48,7 @@
   "mobSpawnLimitDay": 3,
   "mobSpawnLimitNight": 5,
   "oxygenProductionConsumptionRate": 3,
+  "kickReason": "no reason"
   "Triggers": {
     "PlayerJoined": {
       "description": "Event triggered when a player joins a game. ",
